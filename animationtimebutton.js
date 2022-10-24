@@ -1,6 +1,4 @@
-        // Credit: Mateusz Rybczonec
-
-        const FULL_DASH_ARRAY = 283;
+ const FULL_DASH_ARRAY = 283;
         const WARNING_THRESHOLD = 10;
         const ALERT_THRESHOLD = 5;
 
@@ -71,7 +69,7 @@
                 if (timeLeft === 0) {
                     onTimesUp();
                     document.querySelector(".base-timer").style.display="none";
-                    document.getElementById("app").innerHTML = `<button id="download" onclick="down()">Ready to Download</button>`;
+                    document.getElementById("app").innerHTML = `<button id="download" onclick="down()">Ready to Download</button><div class="sapnaitgk">Powered by <a href="https://www.sapnaitgk.com">SapnaITGK</a></div>`;
                 }
             }, 1000);
         }
