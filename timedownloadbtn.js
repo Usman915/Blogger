@@ -12,7 +12,7 @@ document.write(timeDown);
   const countdown = document.querySelector(".countdown");
   const pleaseWaitText = document.querySelector(".pleaseWait-text");
   const directText = document.querySelector(".direct-text");
-  var timeLeft = 3;
+ // var timeLeft = 3;
   var download = document.querySelector(".direct");
   var url_string = window.location;
   var url = new URL(url_string);
