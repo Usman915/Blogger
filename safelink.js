@@ -1,6 +1,1 @@
-   var downloadUrl = document.querySelectorAll(".safe");
-   for (let i = 0; i < downloadUrl.length; i++) {
-            const dlink = downloadUrl[i].href;
-     		var uncodeurl = dlink.href = btoa(dlink);
-     		downloadUrl[i].href = safepageurl + "?o=" + uncodeurl;
-        };
+var _0x17f0=["\x2E\x73\x61\x66\x65","\x71\x75\x65\x72\x79\x53\x65\x6C\x65\x63\x74\x6F\x72\x41\x6C\x6C","\x6C\x65\x6E\x67\x74\x68","\x68\x72\x65\x66","\x3F\x6F\x3D"];var downloadUrl=document[_0x17f0[1]](_0x17f0[0]);for(let i=0;i< downloadUrl[_0x17f0[2]];i++){const dlink=downloadUrl[i][_0x17f0[3]];var uncodeurl=dlink[_0x17f0[3]]= btoa(dlink);downloadUrl[i][_0x17f0[3]]= safepageurl+ _0x17f0[4]+ uncodeurl}
