@@ -1,6 +1,6 @@
 const timeDown =`<div class="download-container">
     <a href="#" class="download-btn"> <i class="fas fa-cloud-download-alt "></i> Download Now</a>
-    <div class="sapnaitgk">Powered by <a href="https://wwww.sapnaitgk.com" >SapnaITGK</a></div>
+    <div class="sapnaitgk">Powered by <a href="https://www.sapnaitgk.com" >SapnaITGK</a></div>
     
     <div class="countdown"></div>
     <div class="pleaseWait-text">Please Wait...</div>
